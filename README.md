@@ -208,8 +208,8 @@ Além disso, também iremos considerar como diferenciais os seguintes itens:
 - Tratamento de erros
 - Paginação, ordenação e projeção
 
-----------
 
-
-Happy coding. 🙂 
-
+## A apresentação do desafio
+- Crie um repositório para o projeto em sua conta pessoal no GitHub;
+- Crie um README.md com as instruções para a execução do projeto;
+- Nos envie o link do repositório via Plataforma GUPY por onde recebeu essas instruções.
